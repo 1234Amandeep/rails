@@ -1,3 +1,11 @@
+# Anjali's change1
+
+# Anjali's change 2
+
+# Anjali's change 3
+
+# Anjali's change 4
+
 # Welcome to Rails
 
 ## What's Rails?
@@ -58,33 +66,34 @@ In addition to that, Rails also comes with:
 
 1. Install Rails at the command prompt if you haven't yet:
 
-	```bash
-	$ gem install rails
-	```
+   ```bash
+   $ gem install rails
+   ```
 
 2. At the command prompt, create a new Rails application:
 
-	```bash
-	$ rails new myapp
-	```
+   ```bash
+   $ rails new myapp
+   ```
 
    where "myapp" is the application name.
 
 3. Change directory to `myapp` and start the web server:
 
-	```bash
-	$ cd myapp
-	$ bin/rails server
-	```
+   ```bash
+   $ cd myapp
+   $ bin/rails server
+   ```
+
    Run with `--help` or `-h` for options.
 
 4. Go to `http://localhost:3000` and you'll see the Rails bootscreen with your Rails and Ruby versions.
 
 5. Follow the guidelines to start developing your application. You may find
    the following resources handy:
-    * [Getting Started with Rails](https://guides.rubyonrails.org/getting_started.html)
-    * [Ruby on Rails Guides](https://guides.rubyonrails.org)
-    * [The API Documentation](https://api.rubyonrails.org)
+   - [Getting Started with Rails](https://guides.rubyonrails.org/getting_started.html)
+   - [Ruby on Rails Guides](https://guides.rubyonrails.org)
+   - [The API Documentation](https://api.rubyonrails.org)
 
 ## Contributing
 
